@@ -7,7 +7,7 @@ about:
   head: c0c3a85
   archived: false
   latestVersion: v0.8.0
-  collectedAt: 2026-09-04T19:21:08Z
+  collectedAt: 2026-09-04T21:13:41Z
 timeline:
   created: 2022-08-28
   lastCommit: 2025-09-28
@@ -80,5 +80,38 @@ total:
   openIssue: 15
   commit: 90
 ---
+path: /home/runner/.x-repo/github.com/noahgorstein/jqp
+collectedAt: 2026-09-04T21:13:42Z
+loc:
+  Go:
+    code: 1997
+    comments: 77
+    blanks: 313
+    files: 26
+  Json:
+    code: 552
+    comments: 0
+    blanks: 0
+    files: 1
+  Yaml:
+    code: 58
+    comments: 0
+    blanks: 11
+    files: 1
+  Toml:
+    code: 4
+    comments: 0
+    blanks: 1
+    files: 1
+  Markdown:
+    code: 0
+    comments: 164
+    blanks: 60
+    files: 2
+total:
+  code: 2632
+  comments: 241
+  blanks: 385
+  files: 31
 ---
 
