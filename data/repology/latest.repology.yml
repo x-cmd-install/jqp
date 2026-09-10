@@ -1,0 +1,405 @@
+- repo: pureos_landing
+  subrepo: landing/main
+  srcname: jqp
+  binnames:
+    - jqp
+  visiblename: jqp
+  version: 0.7.0
+  origversion: 0.7.0-1
+  status: outdated
+  maintainers:
+    - team+pkg-go@tracker.debian.org
+    - ssgelm@debian.org
+  categories:
+    - golang
+- repo: raspbian_oldstable
+  subrepo: main
+  srcname: jqp
+  binnames:
+    - jqp
+  visiblename: jqp
+  version: 0.3.0
+  origversion: 0.3.0-1
+  status: outdated
+  maintainers:
+    - team+pkg-go@tracker.debian.org
+    - ssgelm@debian.org
+  categories:
+    - misc
+- repo: raspbian_stable
+  subrepo: main
+  srcname: jqp
+  binnames:
+    - jqp
+  visiblename: jqp
+  version: 0.7.0
+  origversion: 0.7.0-1
+  status: outdated
+  maintainers:
+    - team+pkg-go@tracker.debian.org
+    - ssgelm@debian.org
+  categories:
+    - misc
+- repo: raspbian_testing
+  subrepo: main
+  srcname: jqp
+  binnames:
+    - jqp
+  visiblename: jqp
+  version: 0.7.0
+  origversion: 0.7.0-1
+  status: outdated
+  maintainers:
+    - team+pkg-go@tracker.debian.org
+    - ssgelm@debian.org
+  categories:
+    - misc
+- repo: parrot
+  subrepo: parrot-updates/main
+  srcname: jqp
+  binnames:
+    - jqp
+  visiblename: jqp
+  version: 0.7.0
+  origversion: 0.7.0-1
+  status: outdated
+  maintainers:
+    - team+pkg-go@tracker.debian.org
+    - ssgelm@debian.org
+  categories:
+    - misc
+- repo: aur
+  srcname: jqp
+  binname: jqp
+  visiblename: jqp
+  version: 0.8.0
+  origversion: 0.8.0-1
+  status: newest
+  summary: A TUI playground to experiment with jq
+  maintainers:
+    - zephyrdrh@aur
+  licenses:
+    - MIT
+- repo: aur
+  srcname: jqp-bin
+  binname: jqp-bin
+  visiblename: jqp-bin
+  version: 0.8.0
+  origversion: 0.8.0-1
+  status: newest
+  summary: A TUI playground to experiment with jq
+  maintainers:
+    - pzarycki@aur
+  licenses:
+    - MIT
+- repo: chocolatey
+  binname: jqp
+  visiblename: jqp
+  version: 0.8.0
+  origversion: null
+  status: newest
+  summary: A TUI playground to experiment with jq
+- repo: debian_12
+  subrepo: bookworm/main
+  srcname: jqp
+  binnames:
+    - jqp
+  visiblename: jqp
+  version: 0.3.0
+  origversion: 0.3.0-1
+  status: outdated
+  maintainers:
+    - team+pkg-go@tracker.debian.org
+    - ssgelm@debian.org
+  categories:
+    - misc
+- repo: debian_13
+  subrepo: trixie/main
+  srcname: jqp
+  binnames:
+    - jqp
+  visiblename: jqp
+  version: 0.7.0
+  origversion: 0.7.0-1
+  status: outdated
+  maintainers:
+    - team+pkg-go@tracker.debian.org
+    - ssgelm@debian.org
+  categories:
+    - misc
+- repo: debian_14
+  subrepo: forky/main
+  srcname: jqp
+  binnames:
+    - jqp
+  visiblename: jqp
+  version: 0.7.0
+  origversion: 0.7.0-1
+  status: outdated
+  maintainers:
+    - team+pkg-go@tracker.debian.org
+    - ssgelm@debian.org
+  categories:
+    - misc
+- repo: debian_unstable
+  subrepo: sid/main
+  srcname: jqp
+  binnames:
+    - jqp
+  visiblename: jqp
+  version: 0.7.0
+  origversion: 0.7.0-1
+  status: outdated
+  maintainers:
+    - team+pkg-go@tracker.debian.org
+    - ssgelm@debian.org
+  categories:
+    - misc
+- repo: deepin_25
+  subrepo: community
+  srcname: jqp
+  binnames:
+    - jqp
+  visiblename: jqp
+  version: 0.7.0
+  origversion: 0.7.0-1
+  status: outdated
+  maintainers:
+    - team+pkg-go@tracker.debian.org
+    - ssgelm@debian.org
+  categories:
+    - misc
+- repo: devuan_unstable
+  subrepo: unstable/main
+  srcname: jqp
+  binnames:
+    - jqp
+  visiblename: jqp
+  version: 0.7.0
+  origversion: 0.7.0-1
+  status: outdated
+  maintainers:
+    - team+pkg-go@tracker.debian.org
+    - ssgelm@debian.org
+  categories:
+    - misc
+- repo: freebsd
+  srcname: textproc/jqp
+  binname: jqp
+  visiblename: textproc/jqp
+  version: 0.8.0
+  origversion: 0.8.0_12
+  status: newest
+  summary: TUI playground to experiment with jq
+  maintainers:
+    - yuri@freebsd.org
+  categories:
+    - textproc
+- repo: homebrew
+  srcname: jqp
+  visiblename: jqp
+  version: 0.8.0
+  origversion: null
+  status: newest
+  summary: TUI playground to experiment and play with jq
+- repo: kali_rolling
+  subrepo: main
+  srcname: jqp
+  binnames:
+    - jqp
+  visiblename: jqp
+  version: 0.7.0
+  origversion: 0.7.0-1
+  status: outdated
+  maintainers:
+    - team+pkg-go@tracker.debian.org
+    - ssgelm@debian.org
+  categories:
+    - misc
+- repo: macports
+  srcname: textproc/jqp
+  binname: jqp
+  visiblename: jqp
+  version: 0.8.0
+  origversion: null
+  status: newest
+  summary: A TUI playground to experiment with jq
+  maintainers:
+    - herbygillot@github
+  licenses:
+    - MIT
+  categories:
+    - textproc
+- repo: nix_stable_24_05
+  srcname: jqp
+  visiblename: jqp
+  version: 0.6.0
+  origversion: null
+  status: outdated
+  summary: A TUI playground to experiment with jq
+  maintainers:
+    - 7rat13@gmail.com
+  licenses:
+    - MIT
+- repo: nix_stable_24_11
+  srcname: jqp
+  visiblename: jqp
+  version: 0.7.0
+  origversion: null
+  status: outdated
+  summary: TUI playground to experiment with jq
+  maintainers:
+    - 7rat13@gmail.com
+  licenses:
+    - MIT
+- repo: nix_stable_25_05
+  srcname: jqp
+  visiblename: jqp
+  version: 0.7.0
+  origversion: null
+  status: outdated
+  summary: TUI playground to experiment with jq
+  maintainers:
+    - 7rat13@gmail.com
+  licenses:
+    - MIT
+- repo: nix_stable_25_11
+  srcname: jqp
+  visiblename: jqp
+  version: 0.8.0
+  origversion: null
+  status: newest
+  summary: TUI playground to experiment with jq
+  maintainers:
+    - 7rat13@gmail.com
+  licenses:
+    - MIT
+- repo: nix_stable_26_05
+  srcname: jqp
+  visiblename: jqp
+  version: 0.8.0
+  origversion: null
+  status: newest
+  summary: TUI playground to experiment with jq
+  maintainers:
+    - fallback-mnt-nix@repology
+  licenses:
+    - MIT
+- repo: nix_unstable
+  srcname: jqp
+  visiblename: jqp
+  version: 0.8.0
+  origversion: null
+  status: newest
+  summary: TUI playground to experiment with jq
+  maintainers:
+    - fallback-mnt-nix@repology
+  licenses:
+    - MIT
+- repo: parrot
+  subrepo: parrot/main
+  srcname: jqp
+  binnames:
+    - jqp
+  visiblename: jqp
+  version: 0.7.0
+  origversion: 0.7.0-1
+  status: outdated
+  maintainers:
+    - team+pkg-go@tracker.debian.org
+    - ssgelm@debian.org
+  categories:
+    - misc
+- repo: scoop
+  subrepo: extras
+  binname: jqp
+  visiblename: jqp
+  version: 0.8.0
+  origversion: null
+  status: newest
+  licenses:
+    - MIT
+- repo: ubuntu_24_04
+  subrepo: noble/universe
+  srcname: jqp
+  binnames:
+    - jqp
+  visiblename: jqp
+  version: 0.5.0
+  origversion: 0.5.0-1
+  status: outdated
+  maintainers:
+    - team+pkg-go@tracker.debian.org
+    - ssgelm@debian.org
+  categories:
+    - universe/misc
+- repo: ubuntu_24_04
+  subrepo: noble-updates/universe
+  srcname: jqp
+  binnames:
+    - jqp
+  visiblename: jqp
+  version: 0.5.0
+  origversion: 0.5.0-1ubuntu0.24.04.3
+  status: outdated
+  maintainers:
+    - ubuntu-devel-discuss@lists.ubuntu.com
+    - ssgelm@debian.org
+  categories:
+    - universe/misc
+- repo: ubuntu_25_04
+  subrepo: plucky/universe
+  srcname: jqp
+  binnames:
+    - jqp
+  visiblename: jqp
+  version: 0.7.0
+  origversion: 0.7.0-1
+  status: outdated
+  maintainers:
+    - team+pkg-go@tracker.debian.org
+    - ssgelm@debian.org
+  categories:
+    - universe/misc
+- repo: ubuntu_25_10
+  subrepo: questing/universe
+  srcname: jqp
+  binnames:
+    - jqp
+  visiblename: jqp
+  version: 0.7.0
+  origversion: 0.7.0-1
+  status: outdated
+  maintainers:
+    - team+pkg-go@tracker.debian.org
+    - ssgelm@debian.org
+  categories:
+    - universe/misc
+- repo: ubuntu_26_04
+  subrepo: resolute/universe
+  srcname: jqp
+  binnames:
+    - jqp
+  visiblename: jqp
+  version: 0.7.0
+  origversion: 0.7.0-1build1
+  status: outdated
+  maintainers:
+    - team+pkg-go@tracker.debian.org
+    - ssgelm@debian.org
+  categories:
+    - universe/misc
+- repo: ubuntu_26_10
+  subrepo: stonking/universe
+  srcname: jqp
+  binnames:
+    - jqp
+  visiblename: jqp
+  version: 0.7.0
+  origversion: 0.7.0-1build1
+  status: outdated
+  maintainers:
+    - team+pkg-go@tracker.debian.org
+    - ssgelm@debian.org
+  categories:
+    - universe/misc
