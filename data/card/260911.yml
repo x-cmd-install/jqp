@@ -7,7 +7,7 @@ about:
   latestVersion: "v0.8.0"
   latestRelease: "v0.8.0"
   latestPrerelease: ""
-  collectedAt: 2026-09-11T05:21:12Z
+  collectedAt: 2026-09-11T19:32:44Z
 timeline:
   created: 2022-08-28
   lastCommit: 2025-09-28
@@ -15,9 +15,9 @@ timeline:
   lastRelease: 2025-09-28
   lastPrerelease: 
 popularity:
-  star: 2835
+  star: 2839
   watcher: 9
-  fork: 54
+  fork: 55
   release: 8
   contributor: 14
   pullRequest: 178
@@ -83,7 +83,7 @@ total:
   commit: 90
 ---
 path: /home/runner/.x-repo/github.com/noahgorstein/jqp
-collectedAt: 2026-09-11T05:21:13Z
+collectedAt: 2026-09-11T19:32:45Z
 loc:
   Go:
     code: 1997
