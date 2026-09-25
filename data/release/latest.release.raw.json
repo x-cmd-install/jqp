@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 721,
       "digest": "sha256:61c8708170030699a3013acb1aecc1ae669ad5d40d84f1114fd686dcfc574f01",
-      "download_count": 2167,
+      "download_count": 2172,
       "created_at": "2025-09-28T01:10:02Z",
       "updated_at": "2025-09-28T01:10:02Z",
       "browser_download_url": "https://github.com/noahgorstein/jqp/releases/download/v0.8.0/checksums.txt"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 4090453,
       "digest": "sha256:8af39481eb9ccc2c69665bb89b8ee8fa3558acbc58f65be293832e69dc865c99",
-      "download_count": 58,
+      "download_count": 62,
       "created_at": "2025-09-28T01:10:02Z",
       "updated_at": "2025-09-28T01:10:02Z",
       "browser_download_url": "https://github.com/noahgorstein/jqp/releases/download/v0.8.0/jqp_Darwin_x86_64.tar.gz"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 3740381,
       "digest": "sha256:178a3d5ad64aefcabb0cf69435b70b23b13618ea71b829148223179b80ac101b",
-      "download_count": 225,
+      "download_count": 227,
       "created_at": "2025-09-28T01:10:01Z",
       "updated_at": "2025-09-28T01:10:01Z",
       "browser_download_url": "https://github.com/noahgorstein/jqp/releases/download/v0.8.0/jqp_Linux_arm64.tar.gz"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 3817790,
       "digest": "sha256:73941de4ff87cb740c48a013de8ff5e310328ac7b2bb08a467e9330843e1db73",
-      "download_count": 22,
+      "download_count": 23,
       "created_at": "2025-09-28T01:10:02Z",
       "updated_at": "2025-09-28T01:10:02Z",
       "browser_download_url": "https://github.com/noahgorstein/jqp/releases/download/v0.8.0/jqp_Linux_i386.tar.gz"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 4030837,
       "digest": "sha256:66b2a100ff114a8bbe45a8e6052269fb2f4c61de4edd5ea57b763bf2ec7c6593",
-      "download_count": 3437,
+      "download_count": 3451,
       "created_at": "2025-09-28T01:10:02Z",
       "updated_at": "2025-09-28T01:10:02Z",
       "browser_download_url": "https://github.com/noahgorstein/jqp/releases/download/v0.8.0/jqp_Linux_x86_64.tar.gz"
@@ -355,7 +355,7 @@
       "state": "uploaded",
       "size": 4095689,
       "digest": "sha256:9d62970c1355705c7050788f70fe597f65f1fe808a7b29fc34876c90bf509c17",
-      "download_count": 1314,
+      "download_count": 1322,
       "created_at": "2025-09-28T01:10:01Z",
       "updated_at": "2025-09-28T01:10:01Z",
       "browser_download_url": "https://github.com/noahgorstein/jqp/releases/download/v0.8.0/jqp_Windows_x86_64.tar.gz"
