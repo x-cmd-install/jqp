@@ -1,13 +1,34 @@
-- repo: aur
+- repo: nix_stable_24_11
   srcname: jqp
-  binname: jqp
+  visiblename: jqp
+  version: 0.7.0
+  origversion: null
+  status: outdated
+  summary: TUI playground to experiment with jq
+  maintainers:
+    - 7rat13@gmail.com
+  licenses:
+    - MIT
+- repo: nix_stable_25_05
+  srcname: jqp
+  visiblename: jqp
+  version: 0.7.0
+  origversion: null
+  status: outdated
+  summary: TUI playground to experiment with jq
+  maintainers:
+    - 7rat13@gmail.com
+  licenses:
+    - MIT
+- repo: nix_stable_25_11
+  srcname: jqp
   visiblename: jqp
   version: 0.8.0
-  origversion: 0.8.0-1
+  origversion: null
   status: newest
-  summary: A TUI playground to experiment with jq
+  summary: TUI playground to experiment with jq
   maintainers:
-    - zephyrdrh@aur
+    - 7rat13@gmail.com
   licenses:
     - MIT
 - repo: aur
@@ -20,6 +41,18 @@
   summary: A TUI playground to experiment with jq
   maintainers:
     - pzarycki@aur
+  licenses:
+    - MIT
+- repo: aur
+  srcname: jqp
+  binname: jqp
+  visiblename: jqp
+  version: 0.8.0
+  origversion: 0.8.0-1
+  status: newest
+  summary: A TUI playground to experiment with jq
+  maintainers:
+    - zephyrdrh@aur
   licenses:
     - MIT
 - repo: chocolatey
@@ -171,39 +204,6 @@
     - 7rat13@gmail.com
   licenses:
     - MIT
-- repo: nix_stable_24_11
-  srcname: jqp
-  visiblename: jqp
-  version: 0.7.0
-  origversion: null
-  status: outdated
-  summary: TUI playground to experiment with jq
-  maintainers:
-    - 7rat13@gmail.com
-  licenses:
-    - MIT
-- repo: nix_stable_25_05
-  srcname: jqp
-  visiblename: jqp
-  version: 0.7.0
-  origversion: null
-  status: outdated
-  summary: TUI playground to experiment with jq
-  maintainers:
-    - 7rat13@gmail.com
-  licenses:
-    - MIT
-- repo: nix_stable_25_11
-  srcname: jqp
-  visiblename: jqp
-  version: 0.8.0
-  origversion: null
-  status: newest
-  summary: TUI playground to experiment with jq
-  maintainers:
-    - 7rat13@gmail.com
-  licenses:
-    - MIT
 - repo: nix_stable_26_05
   srcname: jqp
   visiblename: jqp
@@ -227,7 +227,7 @@
   licenses:
     - MIT
 - repo: parrot
-  subrepo: parrot/main
+  subrepo: parrot-updates/main
   srcname: jqp
   binnames:
     - jqp
@@ -241,7 +241,7 @@
   categories:
     - misc
 - repo: parrot
-  subrepo: parrot-updates/main
+  subrepo: parrot/main
   srcname: jqp
   binnames:
     - jqp
@@ -391,6 +391,20 @@
     - universe/misc
 - repo: ubuntu_26_10
   subrepo: stonking/universe
+  srcname: jqp
+  binnames:
+    - jqp
+  visiblename: jqp
+  version: 0.7.0
+  origversion: 0.7.0-1build1
+  status: outdated
+  maintainers:
+    - team+pkg-go@tracker.debian.org
+    - ssgelm@debian.org
+  categories:
+    - universe/misc
+- repo: ubuntu_27_04
+  subrepo: tenacious/universe
   srcname: jqp
   binnames:
     - jqp
